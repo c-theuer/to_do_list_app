@@ -22,4 +22,4 @@ If you need to redeploy:
 - I read the code for correctness, but only made changes by prompting the AI.
 - The code stores its data in session variables, so every time you restart, all data is lost.
 - I decided not to add a database for just a demo.
-
+- No authentication, security, or unit tests.
