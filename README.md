@@ -9,11 +9,11 @@ A simple webapp that allows users to keep track of their to dos. It is intended 
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-starter-kit.streamlit.app/)
+App is deployed on Streamlit Community Cloud at: https://todolistapp-lckxdsdzvxwvermak599c5.streamlit.app/
 
-## GitHub Codespaces
-
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/streamlit/app-starter-kit?quickstart=1)
+If you need to redeploy:
+1. Go to https://streamlit.io/cloud
+2. Follow these instructions: https://youtu.be/d7fnzDQ5qM8?t=728&si=SoUEk47NvCq7CsMS
 
 ## Notes on Development
 
